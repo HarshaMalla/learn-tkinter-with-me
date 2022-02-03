@@ -3,6 +3,4 @@ This repo contains detailed notes on how to work with tkinter and make beautiful
 
 # Pardon me, Notes will be added ASAP, i'm still working on it
 
-# Project-1:
 
-- ## Detailed code xplanation for <a href='https://github.com/sasivatsal7122/Weather-API-GUI-Tkinter'>Weather-API-GUI-Tkinter</a> can be found <a href='https://harshamalla.github.io/weather-api-notes/'> HERE </a>.
